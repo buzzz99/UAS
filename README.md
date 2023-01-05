@@ -3,7 +3,7 @@
 # NIM : 312210316
 # KELAS : TI 22 A3
 # TUGAS INI BERDASARKAN PRAKTIKUM SEBELUMNYA DENGAN STRUKTUR SEPERTI INI:
-!
+![gambar](hasil/ss1.jpeg)
 ## ``daftar_nilai.py `` berisi modul untuk:
 ## tambah_data
 ``` python 
@@ -60,7 +60,8 @@ Oc("clear")
 else:
 ```
 ## output tambah_data
-!
+![gambar](hasil/ss2.jpeg)
+![gambar](hasil/ss3.jpeg)
 ## ubah_data
 ```python
 elif c.lower() == 'u':
@@ -137,7 +138,7 @@ for i in new:
 new2.close()
 ```
 ## output_ubah_data
-!
+![gambar](hasil/ss4.jpeg)
 ## hapus_data
 ```python
 elif c.lower() == 'h':
@@ -169,7 +170,7 @@ for i in new:
 new2.close()
 ```
 ## output_hapus_data
-!
+![gambar](hasil/ss5.jpeg)
 
 ## cari_data
 ```python
@@ -193,7 +194,7 @@ for l in i:
 P(" ╚══════════════════╩══════════════════╩═══════╩═══════╩═══════╩═══════╝")
 ```
 ## output_cari_data
-!
+![gambar](hasil/ss6.jpeg)
 
 ## ``view_nilai.py``berisi modul untuk:
 ## cetak_daftar_nilai
@@ -217,7 +218,7 @@ for l in i:
 P(" ╚══════════════════╩══════════════════╩═══════╩═══════╩═══════╩═══════╝")
 ```
 ## output cetak_daftar_nilai
-!
+![gambar](hasil/ss7.jpeg)
 
 ## cetak_hasil_pencarian
 ```python
@@ -241,7 +242,7 @@ for l in i:
 P(" ╚══════════════════╩══════════════════╩═══════╩═══════╩═══════╩═══════╝")
 ```
 ## output cetak_hasil_pencarian
-!
+![gambar](hasil/ss8.jpeg)
 
 ## ``inpit_nilai.py``berisi modul untuk:
 ```python
@@ -250,7 +251,7 @@ Nama : Ayubi|Nim : 312210293|Tugas : 90|UTS : 85|UAS : 80|Akhir : 84.75
 Nama : Raphael|Nim : 312210348|Tugas : 90|UTS : 85|UAS : 80|Akhir : 84.75
 ```
 ## output input_nilai.py
-!
+![gambar](hasil/ss9.jpeg)
 ## ``main.py``berisi pemrograman utaa menu pilihan yang memanggil semua yang ada
 ```python
 import os,sys
@@ -442,4 +443,4 @@ while True:
         P("Pilih menu yang tersedia")
 ```
 ## output main.py
-!
+![gambar](hasil/ss10.jpeg)
